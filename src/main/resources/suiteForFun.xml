@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite1" verbose="2" >
+
+    <test name="Sells Test" >
+        <classes>
+            <class name= "tests.ForFunTests" />
+        </classes>
+    </test>
+
+</suite>
